@@ -10,9 +10,6 @@ def home():
 def status():
     return {"status": "API online"}
 
-@app.route("/status")
-def status():
-    return {"status": "API online"}
 
 
 
