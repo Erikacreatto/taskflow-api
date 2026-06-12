@@ -10,6 +10,11 @@ def home():
 def status():
     return {"status": "API online"}
 
+@app.route("/status")
+def status():
+    return {"status": "API online"}
+
+
 
 if __name__ == "__main__":
     app.run(debug=True, port=8000)
