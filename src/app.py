@@ -18,5 +18,9 @@ def livros():
 def autores():
     return "Lista de autores cadastrados"
 
+@app.route("/contato")
+def contato():
+    return "Página de contato do sistema"
+
 if __name__ == "__main__":
     app.run(debug=True, port=8000)
