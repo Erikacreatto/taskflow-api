@@ -4,14 +4,11 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return {"mensagem": "API funcionando corretamente"}
+    return "Sistema de Gerenciamento de Biblioteca"
 
-@app.route("/status")
-def status():
-    return {"status": "API online"}
-
-
-
+@app.route("/sobre")
+def sobre():
+    return "Sistema desenvolvido em Flask para estudo de CI/CD"
 
 if __name__ == "__main__":
     app.run(debug=True, port=8000)
