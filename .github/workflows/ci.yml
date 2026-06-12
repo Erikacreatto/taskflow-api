@@ -23,3 +23,6 @@ jobs:
 
       - name: Verificar sintaxe
         run: python -m py_compile src/app.py
+
+      - name: Executar testes
+        run: pytest
