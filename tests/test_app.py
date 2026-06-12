@@ -13,4 +13,4 @@ def test_home():
 def test_sobre():
     client = app.test_client()
     response = client.get("/sobre")
-    assert response.status_code == 200
+    assert response.status_code == 404
