@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba934dfb-8bda-43a4-9c80-e4947092fb11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../gerenciamento-biblioteca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/.idea/.github.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/workflows/ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
